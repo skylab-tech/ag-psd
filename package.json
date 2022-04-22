@@ -8,6 +8,7 @@
   "browser": "dist/index.js",
   "sideEffects": true,
   "scripts": {
+    "install": "gulp build",
     "test": "gulp test",
     "test2": "mocha -R dot dist/test",
     "dev": "gulp dev --tests",
