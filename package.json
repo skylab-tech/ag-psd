@@ -13,7 +13,7 @@
     "dev": "gulp dev --tests",
     "lint": "tslint -c tslint.json src/ts/**/*.ts",
     "build": "gulp build && browserify dist/index.js --standalone agPsd -o dist/bundle.js",
-    "rollup": "rollup --format=cjs --external base64-js --file=dist-es/bundle.js --sourcemap --sourcemapFile dist-es/bundle.js.map dist-es/index.js",
+    "rollup": "rollup --format=cjs --external base64-js --file=dist-es/bundle.js --sourcemap --sourcemapFile dist-es/bundle.js.map dist-es/index.js"
   },
   "jspm": {
     "main": "dist/index.js",
