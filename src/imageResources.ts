@@ -572,7 +572,7 @@ addHandler(
 	},
 );
 
-MOCK_HANDLERS && addHandler(
+addHandler(
 	1039, // ICC Profile
 	target => (target as any)._ir1039 !== undefined,
 	(reader, target, left) => {

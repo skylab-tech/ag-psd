@@ -7,10 +7,6 @@
   "es2015": "dist-es/index.js",
   "browser": "dist/index.js",
   "sideEffects": true,
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/Agamnentzar/ag-psd"
-  },
   "scripts": {
     "test": "gulp test",
     "test2": "mocha -R dot dist/test",
