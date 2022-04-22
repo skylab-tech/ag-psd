@@ -1,0 +1,94 @@
+{
+  "width": 1024,
+  "height": 768,
+  "channels": 3,
+  "bitsPerChannel": 8,
+  "colorMode": 3,
+  "imageResources": {
+    "captionDigest": "cdcffa7da8c7be09057076aeaf05c34e",
+    "resolutionInfo": {
+      "horizontalResolution": 299.9999694824219,
+      "horizontalResolutionUnit": "PPCM",
+      "widthUnit": "Inches",
+      "verticalResolution": 299.9999694824219,
+      "verticalResolutionUnit": "PPCM",
+      "heightUnit": "Inches"
+    },
+    "printInformation": {
+      "printSixteenBit": false,
+      "printerManagesColors": true,
+      "printerName": "",
+      "proofSetup": {
+        "builtin": "proofCMYK"
+      },
+      "renderingIntent": "relative colorimetric"
+    },
+    "printScale": {
+      "style": "centered",
+      "x": 0,
+      "y": 0,
+      "scale": 1
+    },
+    "globalAngle": 90,
+    "globalAltitude": 30,
+    "gridAndGuidesInformation": {
+      "grid": {
+        "horizontal": 576,
+        "vertical": 576
+      },
+      "guides": [
+        {
+          "location": 531.4375,
+          "direction": "vertical"
+        },
+        {
+          "location": 413.8125,
+          "direction": "horizontal"
+        },
+        {
+          "location": 0,
+          "direction": "horizontal"
+        },
+        {
+          "location": 1,
+          "direction": "vertical"
+        }
+      ]
+    },
+    "urlsList": [],
+    "pixelAspectRatio": {
+      "aspect": 1
+    },
+    "versionInfo": {
+      "hasRealMergedData": true,
+      "writerName": "Adobe Photoshop",
+      "readerName": "Adobe Photoshop CC",
+      "fileVersion": 1
+    },
+    "backgroundColor": {
+      "r": 255,
+      "g": 255,
+      "b": 255
+    },
+    "idsSeedNumber": 1,
+    "printFlags": {
+      "caption": false,
+      "colorBars": false,
+      "cropMarks": false,
+      "flip": false,
+      "interpolate": false,
+      "labels": false,
+      "negative": false,
+      "printFlags": true,
+      "registrationMarks": false
+    }
+  },
+  "filterMask": {
+    "colorSpace": {
+      "r": 255,
+      "g": 0,
+      "b": 0
+    },
+    "opacity": 0.19607843137254902
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "width": 48,
+  "height": 58,
+  "channels": 3,
+  "bitsPerChannel": 8,
+  "colorMode": 3,
+  "imageResources": {
+    "captionDigest": "9a89ad5d286dba2102c8cba967053fdb",
+    "resolutionInfo": {
+      "horizontalResolution": 300,
+      "horizontalResolutionUnit": "PPI",
+      "widthUnit": "Centimeters",
+      "verticalResolution": 300,
+      "verticalResolutionUnit": "PPI",
+      "heightUnit": "Centimeters"
+    },
+    "printInformation": {
+      "printSixteenBit": false,
+      "printerManagesColors": true,
+      "printerName": "",
+      "proofSetup": {
+        "builtin": "proofCMYK"
+      },
+      "renderingIntent": "relative colorimetric"
+    },
+    "printScale": {
+      "style": "centered",
+      "x": 0,
+      "y": 0,
+      "scale": 1
+    },
+    "globalAngle": 30,
+    "globalAltitude": 30,
+    "layerState": 0,
+    "layersGroup": [
+      0
+    ],
+    "layerGroupsEnabledId": [
+      1
+    ],
+    "layerSelectionIds": [],
+    "gridAndGuidesInformation": {
+      "grid": {
+        "horizontal": 576,
+        "vertical": 576
+      },
+      "guides": []
+    },
+    "urlsList": [],
+    "pixelAspectRatio": {
+      "aspect": 1
+    },
+    "versionInfo": {
+      "hasRealMergedData": true,
+      "writerName": "Adobe Photoshop",
+      "readerName": "Adobe Photoshop CS6",
+      "fileVersion": 1
+    },
+    "iccUntaggedProfile": true,
+    "idsSeedNumber": 728,
+    "printFlags": {
+      "caption": false,
+      "colorBars": false,
+      "cropMarks": false,
+      "flip": false,
+      "interpolate": false,
+      "labels": false,
+      "negative": false,
+      "printFlags": true,
+      "registrationMarks": false
+    }
+  },
+  "children": [
+    {
+      "top": -2,
+      "left": 0,
+      "bottom": 58,
+      "right": 48,
+      "blendMode": "normal",
+      "opacity": 1,
+      "clipping": false,
+      "timestamp": 1467155020.497492,
+      "transparencyProtected": false,
+      "hidden": false,
+      "name": "bg",
+      "id": 162,
+      "blendClippendElements": true,
+      "blendInteriorElements": false,
+      "knockout": false,
+      "protected": {
+        "transparency": false,
+        "composite": false,
+        "position": false
+      },
+      "layerColor": "none",
+      "referencePoint": {
+        "x": 0,
+        "y": -2
+      }
+    }
+  ],
+  "filterMask": {
+    "colorSpace": {
+      "r": 255,
+      "g": 0,
+      "b": 0
+    },
+    "opacity": 0.19607843137254902
+  }
+}

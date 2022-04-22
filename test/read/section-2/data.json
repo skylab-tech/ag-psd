@@ -1,0 +1,154 @@
+{
+  "width": 100,
+  "height": 100,
+  "channels": 4,
+  "bitsPerChannel": 8,
+  "colorMode": 3,
+  "imageResources": {
+    "captionDigest": "bba3ea8a192b9746701db58437de56e1",
+    "resolutionInfo": {
+      "horizontalResolution": 72,
+      "horizontalResolutionUnit": "PPI",
+      "widthUnit": "Centimeters",
+      "verticalResolution": 72,
+      "verticalResolutionUnit": "PPI",
+      "heightUnit": "Centimeters"
+    },
+    "printInformation": {
+      "printSixteenBit": false,
+      "printerManagesColors": true,
+      "printerName": "Canon MP540 series Printer",
+      "proofSetup": {
+        "builtin": "proofCMYK"
+      },
+      "renderingIntent": "relative colorimetric"
+    },
+    "printScale": {
+      "style": "centered",
+      "x": 0,
+      "y": 0,
+      "scale": 1
+    },
+    "alphaChannelNames": [
+      "Alpha 1"
+    ],
+    "alphaIdentifiers": [
+      18
+    ],
+    "globalAngle": 30,
+    "globalAltitude": 30,
+    "layerState": 1,
+    "layersGroup": [
+      0,
+      0
+    ],
+    "layerGroupsEnabledId": [
+      1,
+      1
+    ],
+    "layerSelectionIds": [
+      22
+    ],
+    "gridAndGuidesInformation": {
+      "grid": {
+        "horizontal": 576,
+        "vertical": 576
+      },
+      "guides": []
+    },
+    "urlsList": [],
+    "pixelAspectRatio": {
+      "aspect": 1
+    },
+    "versionInfo": {
+      "hasRealMergedData": true,
+      "writerName": "Adobe Photoshop",
+      "readerName": "Adobe Photoshop CS6",
+      "fileVersion": 1
+    },
+    "backgroundColor": {
+      "r": 255,
+      "g": 255,
+      "b": 255
+    },
+    "iccUntaggedProfile": true,
+    "idsSeedNumber": 22,
+    "printFlags": {
+      "caption": false,
+      "colorBars": false,
+      "cropMarks": false,
+      "flip": false,
+      "interpolate": false,
+      "labels": false,
+      "negative": false,
+      "printFlags": true,
+      "registrationMarks": false
+    }
+  },
+  "children": [
+    {
+      "top": 0,
+      "left": 0,
+      "bottom": 100,
+      "right": 100,
+      "blendMode": "normal",
+      "opacity": 1,
+      "clipping": false,
+      "timestamp": 1500672363.6438081,
+      "transparencyProtected": true,
+      "hidden": false,
+      "name": "Background",
+      "nameSource": "bgnd",
+      "id": 1,
+      "blendClippendElements": true,
+      "blendInteriorElements": false,
+      "knockout": false,
+      "protected": {
+        "transparency": true,
+        "composite": false,
+        "position": true
+      },
+      "layerColor": "none",
+      "referencePoint": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "top": 36,
+      "left": 8,
+      "bottom": 68,
+      "right": 92,
+      "blendMode": "normal",
+      "opacity": 1,
+      "clipping": false,
+      "timestamp": 1500672363.643826,
+      "transparencyProtected": false,
+      "hidden": false,
+      "name": "Layer 1",
+      "nameSource": "layr",
+      "id": 22,
+      "blendClippendElements": true,
+      "blendInteriorElements": false,
+      "knockout": false,
+      "protected": {
+        "transparency": false,
+        "composite": false,
+        "position": false
+      },
+      "layerColor": "none",
+      "referencePoint": {
+        "x": 0,
+        "y": 0
+      }
+    }
+  ],
+  "filterMask": {
+    "colorSpace": {
+      "r": 255,
+      "g": 0,
+      "b": 0
+    },
+    "opacity": 0.19607843137254902
+  }
+}
